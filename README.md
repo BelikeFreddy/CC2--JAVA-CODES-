@@ -1,6 +1,6 @@
 # CC2-Codes
 
-# CC2-projects
+
 1H , FARRO FREDERICK ANTHONY A.
 
 TITLE: "AREAS"
